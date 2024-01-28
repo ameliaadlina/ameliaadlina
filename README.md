@@ -1,8 +1,25 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is AMELIA ADLINA AZRUL
 ===========================================================================================================================================
+**🎓 Education background:**
+   - 🏫 Foundation
+   - 📘 Major: Engineering
+   - 🎓 University: Universiti Teknologi Mara (UiTM) Dengkil
+   - 📅 Year: 2022- 2023
 
+   - 🏫 High School
+   - 🎓 SMK Raja Chulan, Ipoh
+   - 📅 Year: 2022- 2023
 
+**💡 Skills:**
+   - 💻 Adaptability
+   - 📊 Communication skills
+   - 🌐 Leadership
 
+**🏅 Honors and Awards:**
+   - 🏆 Anugerah Pandu Puteri Raja
+   - 🏆 Anugerah Ketua Pesuruhjaya
+   - 🏆 Anugerah Pandu Puteri Remaja
+     
 * 🌍  I'm based in Universiti Teknologi Malaysia, Johor
 * 🖥️  See my portfolio at [MyPortfolio]([http://ztm.com](http://127.0.0.1:5500/1.%20main%20page.html))
 * ✉️  You can contact me at [ameliaadlina@graduate.utm.my](mailto:ameliaadlina@graduate.utm.my)
