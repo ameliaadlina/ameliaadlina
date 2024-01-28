@@ -1,13 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is AMELIA ADLINA AZRUL
 ===========================================================================================================================================
 
-PC Assemble (Lab)
------------------
 
-On 23rd October 2024,PC maintenance class that was held at Makmal Inovasi (322-02) N28, Level 3A. My classmates were divided into groups. I was assigned to group five that consists of 5 members. The group is also for a group assignment for course SECP1513 throughout semester one. During the class, we were briefed such as the introduction of PC compartments and their function by lab assistants before the assemble starts. We were first took off compartments of the PC step by step through the instruction given at the same time remember the position of each compartments. After the compartments mentioned were taken off, we had to put them back into places. After finished, we had to take our PC that were assembled to the front for testing, to make sure that the PC is working after the assemble to indicate whether the position and assembling of PC were correct. At first attempt, my group could not make it because the position of memory card were placed in wrongly. At second attempt, we made it! Lastly, we were give a sheet to name a compartment based on what we learn to enhance our understandings regarding today's lesson.
 
 * 🌍  I'm based in Universiti Teknologi Malaysia, Johor
-* 🖥️  See my portfolio at [MyPortfolio](http://ztm.com)
+* 🖥️  See my portfolio at [MyPortfolio]([http://ztm.com](http://127.0.0.1:5500/1.%20main%20page.html))
 * ✉️  You can contact me at [ameliaadlina@graduate.utm.my](mailto:ameliaadlina@graduate.utm.my)
 * ⚡  I am active in clubs' events. My major unit is Technical and Multimedia!
 
