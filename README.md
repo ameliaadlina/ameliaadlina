@@ -1,14 +1,14 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is AMELIA ADLINA AZRUL
 ===========================================================================================================================================
 **🎓 Education background:**
-   - 🏫 Foundation
-   - 📘 Major: Engineering
-   - 🎓 University: Universiti Teknologi Mara (UiTM) Dengkil
-   - 📅 Year: 2022- 2023
+   1) - 🏫 Foundation
+      - 📘 Major: Engineering
+      - 🎓 University: Universiti Teknologi Mara (UiTM) Dengkil
+      - 📅 Year: 2022- 2023
 
-   - 🏫 High School
-   - 🎓 SMK Raja Chulan, Ipoh
-   - 📅 Year: 2022- 2023
+  2)  - 🏫 High School
+      - 🎓 SMK Raja Chulan, Ipoh
+      - 📅 Year: 2022- 2023
 
 **💡 Skills:**
    - 💻 Adaptability
