@@ -8,7 +8,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
   2)  - 🏫 High School
       - 🎓 SMK Raja Chulan, Ipoh
-      - 📅 Year: 2022- 2023
+      - 📅 Year: 2019- 2022
 
 **💡 Skills:**
    - 💻 Adaptability
