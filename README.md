@@ -21,7 +21,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
    - 🏆 Anugerah Pandu Puteri Remaja
      
 * 🌍  I'm based in Universiti Teknologi Malaysia, Johor
-* 🖥️  See my latest portfolio at 
 * ✉️  You can contact me at [ameliaadlina@graduate.utm.my](mailto:ameliaadlina@graduate.utm.my)
 * ⚡
 
